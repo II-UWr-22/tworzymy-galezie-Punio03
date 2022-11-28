@@ -1,4 +1,7 @@
 Jakub Malczak
 Jezyk C
 Forbes
+<<<<<<< HEAD
 burgundowy
+=======
+>>>>>>> essa
